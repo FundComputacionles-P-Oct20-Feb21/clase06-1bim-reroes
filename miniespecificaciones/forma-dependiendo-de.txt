@@ -1,0 +1,39 @@
+// forma 1
+
+Dependiendo_De(op) Haga
+  Opcion 1
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+  Opcion 2
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+  Opcion n
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+Fin_Dependiendo_De
+
+// forma 2
+
+DD(op) Haga
+  Opcion 1
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+  Opcion 2
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+  Opcion n
+    instrucciones 1
+    instrucciones 2
+  Fin
+
+Fin_Dependiendo_De
